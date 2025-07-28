@@ -30,5 +30,5 @@ bookstore-api/
          └── java/
              └── com/example/bookstoreapi/
                  ├── service/
-                 │    └── AuthorServiceTest.java
+                    └── AuthorServiceTest.java
                  
